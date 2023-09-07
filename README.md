@@ -1,5 +1,3 @@
 - 👋 Hi, I’m lukehasselbring.
 - 👀 I’m interested in MEDIA & IT.
-- 🌱 I’m currently learning CS50x & BEYOND.
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me? LUKEH.CO
+- 🌱 I’m currently learning DATA SCIENCE at 4Geeks Academy.
