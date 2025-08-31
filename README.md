@@ -1,3 +1,1 @@
-- 👋 Hi, I’m lukehasselbring.
-- 👀 I’m interested in MEDIA & IT.
-- 🌱 Having fun learning as I live!
+- 👋
